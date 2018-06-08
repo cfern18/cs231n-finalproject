@@ -1,0 +1,12 @@
+{
+    "learning_rate": 1.75e-05,
+    "batch_size": 16,
+    "num_epochs": 1,
+    "dropout_rate": 0.8,
+    "num_channels": 32,
+    "save_summary_steps": 100,
+    "num_workers": 4,
+    "in_channels": 1,
+    "out_channels": 1,
+    "cuda": 1
+}
